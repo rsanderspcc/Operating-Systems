@@ -1,0 +1,5 @@
+Memory Management allocates memory to different programs.
+Assigning different Blocks to optimize overall system performance.
+Memory Management is handled at various levels.
+It allows for multitasking.
+It Prevents Memory-Leaks which would crash the system by keeping issues isolated to specific applications.
