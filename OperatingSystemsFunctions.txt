@@ -8,3 +8,8 @@ File Management helps organize where files are stored.
 It assists in finding those files when searched for them.
 It Created Indexes that aid in that process
 It logs when files were accessed, by whom, and is an important part of looking for breaches in security.
+
+Device Management helps detect new devices.
+It attempts to load drivers for them.
+It searches for drivers that could support operation.
+Device Management offers users assisstance in making their things work.
